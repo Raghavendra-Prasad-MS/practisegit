@@ -1,2 +1,2 @@
 faq.txt.txt
-contact.txt.txt
+contact.html.html
