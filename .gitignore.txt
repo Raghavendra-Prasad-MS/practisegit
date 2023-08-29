@@ -1,0 +1,2 @@
+faq.txt.txt
+contact.txt.txt
